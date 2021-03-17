@@ -1,0 +1,38 @@
+@import 'styles/shared.scss';
+
+.TodoList__checkbox {
+  cursor: pointer;
+  width: 24px;
+  height: 24px;
+}
+
+.TodoList__text {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 24px;
+  margin-left: 24px;
+
+  .TodoList__item--completed & {
+    text-decoration: line-through;
+  }
+}
+
+.TodoList__btn {
+  @extend %button;
+
+  margin-left: auto;
+  border-radius: 4px;
+  padding: 12px 24px;
+  background-color: $indigo;
+  color: $white;
+  font-weight: 500;
+
+  &:hover,
+  &:focus {
+    background-color: $indigo-accent;
+  }
+
+  &:active {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  }
+}
