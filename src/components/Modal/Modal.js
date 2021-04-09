@@ -1,10 +1,3 @@
-// https://youtu.be/w6MW1szKuT4?t=1343 (вебинар № 5)
-
-// Модальное окно (componentDidMount и componentWillUnmount)
-//    -  Проблема z-index, как решать без костылей (порталы)
-//    -  Слушатель на keydown для Escape
-//    -  Слушатель на клик по Backdrop
-
 import { Component } from 'react';
 import { createPortal } from 'react-dom';
 import './Modal.scss';
