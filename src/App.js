@@ -1,18 +1,3 @@
-// https://youtu.be/terXi4NlcoI?t=5467 - Коллекция заметок: создание, удаление (вебинар № 3)
-
-// https://youtu.be/2tPxoJxaCes?t=3719 - Коллекция заметок: добавление, обновление, фильтрация (вебинар № 4)
-// https://youtu.be/2tPxoJxaCes?t=3736 - (обновление)
-// https://youtu.be/2tPxoJxaCes?t=4109 - (добавление)
-// https://youtu.be/2tPxoJxaCes?t=4750 - (фильтрация)
-// https://youtu.be/2tPxoJxaCes?t=5550 - (подведение итогов)
-
-// https://youtu.be/w6MW1szKuT4?t=567  - Сохранение заметок в local storage (вебинар № 5)
-
-// https://youtu.be/w6MW1szKuT4?t=4129 - Рефакторинг заметок (вебинар № 5)
-// https://youtu.be/w6MW1szKuT4?t=4151 - (вынесение заметки в отдельный компонент)
-// https://youtu.be/w6MW1szKuT4?t=4446 - (добавление кнопки-иконки)
-// https://youtu.be/w6MW1szKuT4?t=4906 - (перенос редактора в модальное окно)
-
 // https://youtu.be/HbTuKWBf_Fk?t=89   - HTTP запросы (вебинар № 6)
 // https://youtu.be/HbTuKWBf_Fk?t=460  - (GET запрос)
 // https://youtu.be/HbTuKWBf_Fk?t=671  - (POST запрос)
